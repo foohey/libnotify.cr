@@ -10,7 +10,7 @@ Add this to your application's `shard.yml`:
 ```yaml
 dependencies:
   libnotify:
-    github: foohey/libnotify
+    github: foohey/libnotify.cr
 ```
 
 
